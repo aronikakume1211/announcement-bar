@@ -1,0 +1,26 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+#announcement-bar-settings {
+  max-width: 800px;
+}
+#announcement-bar-settings h1 {
+  padding-block: 8px;
+}
+#announcement-bar-settings .components-base-control:has(textarea) {
+  flex-basis: 400px;
+}
+#announcement-bar-settings .components-notice, #announcement-bar-settings .components-notice__content {
+  margin: 0;
+}
+#announcement-bar-settings .components-notice-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-block-end: 16px;
+}
+#announcement-bar-settings .components-panel {
+  margin-block-end: 8px;
+}
+
+/*# sourceMappingURL=index.css.map*/
